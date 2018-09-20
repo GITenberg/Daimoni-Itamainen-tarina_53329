@@ -1,0 +1,35 @@
+_repo: Daimoni-Itamainen-tarina_53329
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wuori, Martti
+    birthdate: 1858
+    deathdate: 1934
+    gutenberg_agent_id: '26501'
+    url: http://www.gutenberg.org/2009/agents/26501
+creator:
+  author:
+    agent_name: Lermontov, Mikhail Iurevich
+    aliases:
+    - Лермонтов, Михаил Юрьевич
+    - Lermontov, Mikhayil Yurevich
+    birthdate: 1814
+    deathdate: 1841
+    gutenberg_agent_id: '469'
+    url: http://www.gutenberg.org/2009/agents/469
+    wikipedia: http://en.wikipedia.org/wiki/Mikhail_Lermontov
+description: ''
+gutenberg_issued: '2016-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53329'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russian poetry -- Translations into Finnish'
+- GITenberg
+title: 'Daimoni: Itämainen tarina'
+url: http://www.gutenberg.org/ebooks/53329
